@@ -1,5 +1,22 @@
-# 💫 About Me:
-dfgg
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
+
+# <h1 align="center">👋 Hi there, I'm <a src="[[https://abhishek.id](https://aadarsh-jha-portfolio.netlify.app)/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Rohit</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+##  About Me:
+
+- 🌊 I'm from India.
+- 🔭 I’m currently working as a React Developer Intern at [Kinderpass](https://mykinderpass.com).
+- 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/).
+- 🌱 I’m currently learning Data Science and DSA.
+- 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
+- ⚡ Fun fact: I love singing and football.
+- 💬 Ask me about Web Development, Android Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
+- 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
+- 📫 How to find me:
+  - 🤙 [TopMate](https://topmate.io/aadarsh_jha10)
+  - 📧 [Mail](mailto:aadarshjha1401@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jha-b74330240)
+  - 📹 [Instagram](https://www.instagram.com/renji_riverstone/)
 
 
 ## 🌐 Socials:
