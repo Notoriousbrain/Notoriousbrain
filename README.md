@@ -1,22 +1,22 @@
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="gif"></p>
 
-# <h1 align="center">👋 Hi there, I'm <a src="[[https://abhishek.id](https://aadarsh-jha-portfolio.netlify.app)/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Rohit</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# <h1 align="center">👋 Hi there, I'm <a src="[[https://abhishek.id](https://aadarsh-jha-portfolio.netlify.app)/](https://portfolio-rohit-singh.netlify.app/)" target="_blank">Rohit</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ##  About Me:
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as a React Developer Intern at [Kinderpass](https://mykinderpass.com).
+- 🔭 I’m currently working as a React Developer Intern at [LiteStore](https://litestore.in/).
 - 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/).
 - 🌱 I’m currently learning Data Science and DSA.
-- 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
-- ⚡ Fun fact: I love singing and football.
-- 💬 Ask me about Web Development, Android Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
-- 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
+- 📑 My work portfolio is available at [Rohit's Portfolio](https://portfolio-rohit-singh.netlify.app/).
+<!-- - ⚡ Fun fact: I love singing and football. -->
+- 💬 Ask me about Web Development, Mobile Development, Web3, Blockchain, Music or anything [here](https://topmate.io/rohit_singh22)
+- 📫 You can reach me out via [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - 📫 How to find me:
-  - 🤙 [TopMate](https://topmate.io/aadarsh_jha10)
-  - 📧 [Mail](mailto:aadarshjha1401@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jha-b74330240)
-  - 📹 [Instagram](https://www.instagram.com/renji_riverstone/)
+  - 🤙 [TopMate](https://topmate.io/rohit_singh22)
+  - 📧 [Mail](mailto:rohitsingh66604@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-singh-7a8866248/)
+  - 📹 [Instagram](https://www.instagram.com/its.rohit._singh/)
 
 
 ## 🌐 Socials:
