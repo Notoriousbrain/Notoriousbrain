@@ -5,11 +5,10 @@
 ##  About Me:
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as a React Developer Intern at [LiteStore](https://litestore.in/).
+- 🔭 I’m currently working as a Full Stack Developer at [Ignition Nest Labs]([https://ignitionnestlabs.online/]).
 - 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/).
-- 🌱 I’m currently learning Data Science and DSA.
+- 🌱 I’m currently contributing to Open Source.
 - 📑 My work portfolio is available at [Rohit's Portfolio](https://portfolio-rohit-singh.netlify.app/).
-<!-- - ⚡ Fun fact: I love singing and football. -->
 - 💬 Ask me about Web Development, Mobile Development, Web3, Blockchain, Music or anything [here](https://topmate.io/rohit_singh22)
 - 📫 You can reach me out via [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - 📫 How to find me:
