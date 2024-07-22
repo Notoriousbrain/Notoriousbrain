@@ -15,6 +15,7 @@
   - 📧 [Mail](mailto:rohitsingh66604@gmail.com)
   - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-singh-7a8866248/)
   - 📹 [Instagram](https://www.instagram.com/ohitzrohit/)
+  - [But Me Coffee](https://buymeacoffee.com/notoriousbrain)
 
 
 ## 🌐 Socials:
