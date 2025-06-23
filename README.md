@@ -7,7 +7,7 @@
 - 🌊 I'm from India.
 - 🔭 I’m currently working as a Full Stack Developer at [Ignition Nest Labs]([https://ignitionnestlabs.online/]).
 - 🌱 I’m currently contributing to Open Source.
-- 📑 My work portfolio is available at [Rohit's Portfolio](https://portfolio-rohit-singh.netlify.app/).
+- 📑 My work portfolio is available at [Rohit's Portfolio](https://notoriousbrain.dev).
 - 💬 Ask me about Web Development, Mobile Development, Web3, Blockchain, Music or anything [here](https://topmate.io/rohit_singh22)
 - 📫 You can reach me out via [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - 📫 How to find me:
