@@ -5,7 +5,7 @@
 ##  About Me:
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as a Full Stack Developer at [Ignition Nest Labs]([https://ignitionnestlabs.online/]).
+- 🔭 I’m currently building [Infinity Linkage]([https://infinitylinkage.com/]).
 - 🌱 I’m currently contributing to Open Source.
 - 📑 My work portfolio is available at [Rohit's Portfolio](https://notoriousbrain.dev).
 - 💬 Ask me about Web Development, Mobile Development, Web3, Blockchain, Music or anything [here](https://topmate.io/rohit_singh22)
