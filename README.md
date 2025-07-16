@@ -1,6 +1,6 @@
 # <h1>Hi there, I'm Rohit</a> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
 
-https://komarev.com/ghpvc/?username=Notoriousbrian [![wakatime](https://wakatime.com/badge/user/a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b.svg)](https://wakatime.com/@a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b)
+![](https://komarev.com/ghpvc/?username=Notoriousbrian) [![wakatime](https://wakatime.com/badge/user/a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b.svg)](https://wakatime.com/@a2d25f8c-8659-4fc5-9e3a-d1534d4fa91b)
 
 ##  About Me:
 
