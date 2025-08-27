@@ -9,6 +9,7 @@
 - You can contact me at [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - I'm open to collaborating on Open Source Projects
 - 📑 My work portfolio is available at [Rohit's Portfolio](https://notoriousbrain.dev).
+- You can buy me a coffee at [Buy Rohit a coffee](https://buymeacoffee.com/rohitdoesdev).
 
 <a href="https://www.github.com/Notoriousbrain" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Notoriousbrain?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
