@@ -5,7 +5,7 @@
 ##  About Me:
 
 - Im based in India.
-- Self proclaimed most cracked dev
+- world class developer
 - You can contact me at [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - I'm open to collaborating on Open Source Projects
 - 📑 My work portfolio is available at [Rohit's Portfolio](https://notoriousbrain.dev).
