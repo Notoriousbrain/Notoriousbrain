@@ -5,7 +5,6 @@
 ##  About Me:
 
 - Im based in India.
-- 
 - Building [OSS Tag](https://github.com/opentagmanager/osstag)
 - You can contact me at [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - I'm open to collaborating on Open Source Projects
