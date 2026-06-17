@@ -16,5 +16,5 @@ src="https://img.shields.io/github/followers/Notoriousbrain?logo=github&style=fo
 
 ## 🌐 Socials:
 <a href="https://discord.com/users/707670560028491818"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-7a8866248/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/iblamerohit"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/rohit-the-goat/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/rohitdoesdev"><img src="https://skillicons.dev/icons?i=twitter" /></a>
