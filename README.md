@@ -8,7 +8,6 @@
 - Building [OSS Tag](https://github.com/opentagmanager/osstag)
 - You can contact me at [rohitsingh66604@gmail.com](mailto:rohitsingh66604@gmail.com)
 - I'm open to collaborating on Open Source Projects
-- My [Portfolio](https://notoriousbrain.dev)
 - You can Buy me a coffee [here](https://buymeacoffee.com/rohitdoesdev).
 
 <a href="https://www.github.com/Notoriousbrain" target="_blank" rel="noreferrer"><img
